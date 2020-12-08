@@ -1,0 +1,27 @@
+body {
+background: linear-gradient(to left top, lightblue, lightgreen);
+height: 100vh;
+}
+
+h1 {font-family: fantasy;}
+
+h2 {
+font-family: 'Anonymous Pro', monospace;
+text-decoration:underline;
+}
+
+img {
+	border-radius: 100%;
+    width:200px;
+}
+a:hover {font-weight: bold;}
+.favorite:hover {background-color: #c0ffee;}
+
+
+/*
+ Notes:
+
+ Web safe fonts: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family#syntax
+ Hex codes that are words: http://lexadecimal.pixielabs.io/
+
+*/
